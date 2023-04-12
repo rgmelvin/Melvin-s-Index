@@ -1,6 +1,6 @@
 # Melvin's Index
 
-Melvin's Index is method of normalizing cycle threshold values (Ct-values) from quantitative polymerase chain reaction (qPCR) in studies of virus in wastewater. I came up with the method because there was a lot of arguement over what Ct-values meant. That is all fine, cogitate away, but I needed to report some meaningful information to wastewater treatment plant supervisors in rural Minnesota they they could then take to their city councils. The Index acheived my goal and science kept ticking along arguing about Ct-values.
+Melvin's Index is method of normalizing cycle threshold values (Ct-values) from quantitative polymerase chain reaction (qPCR) data in studies of virus in wastewater. I came up with the method because there was a lot of arguement over what Ct-values meant. That is all fine, cogitate away, but I needed to report some meaningful information to wastewater treatment plant supervisors in rural Minnesota they they could then take to their city councils. The Index acheived my goal and science kept ticking along arguing about Ct-values.
 
 The index performs quantile normalization on data obtained via qPCR after converting to Log(virus copies/ liter). The Indexing protocol includes quantile normalization followed by standardization to an internal control (in this case the Pepper Mild Mottle Virus (PMMoV)) followed by rescaling so that it is all on a 0 to 1.0 scale.
 
