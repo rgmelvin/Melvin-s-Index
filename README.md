@@ -1,5 +1,5 @@
-# dirtywatercooler
+# Melvin's Index
 + Code related to the normalization methods used in the study of viruses in wastewater for large geographical sampling. 
 + This script was implemented in a study done in the state of Minnesota done from May 2020 to September 2020. 
-+ The script was first published in a manuscript available online at MedRXiV.org title "Predictive Power of SARS-CoV-2 wastewater surveillance for divers populations across a large geographical range"
-+ The study was funded by grants awarded to Glenn Simmons Jr, PhD  at the University of Minnesota Medical School Duluth Campus.
++ The script, written by Rebecca Freese is published in 
+Melvin, R.G., Hendrickson, E.N., Chaudhry, N. et al. A novel wastewater-based epidemiology indexing method predicts SARS-CoV-2 disease prevalence across treatment facilities in metropolitan and regional populations. Sci Rep 11, 21368 (2021). https://doi.org/10.1038/s41598-021-00853-y
